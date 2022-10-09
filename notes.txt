@@ -1,0 +1,7 @@
+autocorrect 
+pip install autocorrect
+
+img -> text
+audio -> text 
+
+video translator
