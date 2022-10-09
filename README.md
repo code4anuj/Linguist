@@ -1,6 +1,6 @@
 # Linguist - Team EnQ
 
- Linguist is a software that let's you translate any English-language resource like text, pdf, image with text or audio into vernacular languages like Hindi, Gujarati, Bengali, Marathi, Malayalam, Telegu and Tamil. It also gives you freedom to summarize the text along with translation. It can translate in realtime from camera also. The project is mostly based on Natural Language Processing (NLP). It has been built using the language Python and it's amazing libraries.
+ Linguist is a software that gives you freedom to summarize the text along with translation. It can translate in realtime from camera also. It let's you translate any English-language resource like text, pdf, image with text or audio into vernacular languages like Hindi, Gujarati, Bengali, Marathi, Malayalam, Telegu and Tamil. The project is mostly based on Natural Language Processing (NLP). It has been built using the language Python and it's amazing libraries.
 
 To develop an application to translate English-based educational resources into vernacular languages (mother-tongues) using Natural Language Processing (NLP) for mass-effective learning.
 
